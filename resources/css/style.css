@@ -32,6 +32,8 @@ p{
 #NewYork{
   color: white;
   background-image: url("../images/the-flatiron-building.png");
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 #Copyright{
   color: white;
